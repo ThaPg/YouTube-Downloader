@@ -1,0 +1,6 @@
+{
+    "WavPreview.autoAnalyze": true,
+    "workbench.editorAssociations": {
+        "*.mp3": "wavPreview.audioPreview"
+    },
+}
